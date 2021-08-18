@@ -10,7 +10,7 @@
   "files": [
     "bin"
   ],
-  "repository": "vercel/serve",
+  "repository": "zeit/serve",
   "bin": {
     "serve": "./bin/serve.js"
   },
